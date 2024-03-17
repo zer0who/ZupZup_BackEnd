@@ -8,7 +8,7 @@
 <img width="410" alt="image" src="https://github.com/zer0who/ZupZup_BackEnd/assets/64959985/9c965992-d57d-481b-a2c8-dece5fa9ffd4"> <img width="410" alt="image" src="https://github.com/zer0who/ZupZup_BackEnd/assets/64959985/f97c38d6-1d37-4a91-bcfb-e27f3192652a">
 
 ---
-## 기술 스택 - BackEnd
+## 🛠️ 기술 스택 - BackEnd
 ### FRAME WORK 
 <img height="100" src="https://github.com/zer0who/ZupZup_BackEnd/assets/64959985/07dd18a2-b335-49dd-abdb-5e4e7acfea0e">
 
@@ -19,5 +19,11 @@
 ### PUSH ALERT 
 <img height="100" src="https://github.com/zer0who/ZupZup_BackEnd/assets/64959985/07103995-558b-4448-a4ab-38261e619f5c"> 
 
-### CI 
-<img height="100" src="https://github.com/zer0who/ZupZup_BackEnd/assets/64959985/e732ce94-e833-4a62-814a-c2248abd27a4"> 
+### DEPLOY
+<img height="100" src="https://github.com/zer0who/ZupZup_BackEnd/assets/64959985/e6c6b8cf-37f1-4b39-9046-b3e45338ac1b"> 
+
+---
+## 🏆 주요 수상
++ 제1회 ESG 창업 아이디어 경진대회 - 우수상(2023.03.29, 청년창조발전소 꿈터플러스)
++ 우수 기술 사업화 테크톤 경진대회 - 우수상(2023.04.10, 부산대학교 창업지원단)
++ 2023년 예비창업패키지 일반분야 - 선정(2023.04.24, 중소벤처기업부)
