@@ -16,9 +16,6 @@
 <img height="100" src="https://github.com/zer0who/ZupZup_BackEnd/assets/64959985/b8a380de-bd73-414b-a497-64a3615fb7dc"> 
 <img height="100" src="https://github.com/zer0who/ZupZup_BackEnd/assets/64959985/5e99ee33-a49d-4d7d-8e79-4f5aa63a3ff0">
 
-### PUSH ALERT 
-<img height="100" src="https://github.com/zer0who/ZupZup_BackEnd/assets/64959985/07103995-558b-4448-a4ab-38261e619f5c"> 
-
 ### DEPLOY
 <img height="100" src="https://github.com/zer0who/ZupZup_BackEnd/assets/64959985/e6c6b8cf-37f1-4b39-9046-b3e45338ac1b"> 
 
