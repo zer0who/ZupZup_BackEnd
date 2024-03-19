@@ -24,3 +24,6 @@
 + 제1회 ESG 창업 아이디어 경진대회 - 우수상(2023.03.29, 청년창조발전소 꿈터플러스)
 + 우수 기술 사업화 테크톤 경진대회 - 우수상(2023.04.10, 부산대학교 창업지원단)
 + 2023년 예비창업패키지 일반분야 - 선정(2023.04.24, 중소벤처기업부)
+
+---
+24.03.19 부로 Team-JubJub organization의 repository가 public으로 전환되었습니다.([Team-JubJub/ZupZup_BackEnd](https://github.com/Team-JubJub/ZupZup_backend))
