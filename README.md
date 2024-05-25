@@ -17,7 +17,7 @@
 <img height="100" src="https://github.com/zer0who/ZupZup_BackEnd/assets/64959985/5e99ee33-a49d-4d7d-8e79-4f5aa63a3ff0">
 
 ### DEPLOYMENT
-<img height="100" src="https://github.com/zer0who/ZupZup_BackEnd/assets/64959985/e6c6b8cf-37f1-4b39-9046-b3e45338ac1b"> 
+<img height="100" src="https://github.com/zer0who/ZupZup_BackEnd/assets/64959985/e6c6b8cf-37f1-4b39-9046-b3e45338ac1b"> <img height="100" src="https://github.com/zer0who/ZupZup_BackEnd/assets/64959985/624a40de-36bc-4a70-8fa6-0a97149d2879">
 
 ---
 ## 🏆 주요 수상
