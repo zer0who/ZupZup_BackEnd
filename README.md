@@ -23,6 +23,10 @@
 <img height="100" src="https://github.com/zer0who/ZupZup_BackEnd/assets/64959985/e6c6b8cf-37f1-4b39-9046-b3e45338ac1b"> <img height="100" src="https://github.com/zer0who/ZupZup_BackEnd/assets/64959985/624a40de-36bc-4a70-8fa6-0a97149d2879">
 
 ---
+## Architecture
+<img width="800" src="https://github.com/user-attachments/assets/6157475b-c81d-4dbb-a4ea-be1ea0577c24">
+
+---
 ## 🏆 주요 수상
 + 제1회 ESG 창업 아이디어 경진대회 - 우수상(2023.03.29, 청년창조발전소 꿈터플러스)
 + 우수 기술 사업화 테크톤 경진대회 - 우수상(2023.04.10, 부산대학교 창업지원단)
